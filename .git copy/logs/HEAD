@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 a7846c7527e5d265d2593fde67e78ea29e5c404c Cal Mense <Cal.Mense@arup.com> 1751448809 +0200	clone: from https://github.com/calmense/SunManPanelDesign.git
+a7846c7527e5d265d2593fde67e78ea29e5c404c a7846c7527e5d265d2593fde67e78ea29e5c404c Cal Mense <Cal.Mense@arup.com> 1751449060 +0200	checkout: moving from main to pdf-function
+a7846c7527e5d265d2593fde67e78ea29e5c404c aabfc2fd131fa1d159e8cfb31c59b66442c0429c Cal Mense <Cal.Mense@arup.com> 1751449307 +0200	commit: pdf-function
+aabfc2fd131fa1d159e8cfb31c59b66442c0429c b11a495109ae553cde4895871f9ccc1aee187e28 Cal Mense <Cal.Mense@arup.com> 1751451414 +0200	commit: pdf-function
+b11a495109ae553cde4895871f9ccc1aee187e28 7f874f2cdb5040d541e4edf7d6d7aea23ac0f37f Cal Mense <Cal.Mense@arup.com> 1751458512 +0200	commit: fix country_image
+7f874f2cdb5040d541e4edf7d6d7aea23ac0f37f 782f837728c288235a2af1897c8990c5d6639f51 Cal Mense <Cal.Mense@arup.com> 1751459724 +0200	commit: fix country_image
+782f837728c288235a2af1897c8990c5d6639f51 5d192ad63140f2a7f452edef85569b690f4c6405 Cal Mense <Cal.Mense@arup.com> 1751461250 +0200	commit: fix country_image
+5d192ad63140f2a7f452edef85569b690f4c6405 7ed093351c39ab77c11e8a27e035b5a4053f73aa Cal Mense <Cal.Mense@arup.com> 1751461546 +0200	commit: fix manufacturer
+7ed093351c39ab77c11e8a27e035b5a4053f73aa faa621a4974e157bf0cc5777365d8a3f3c854894 Cal Mense <Cal.Mense@arup.com> 1751901542 +0200	checkout: moving from pdf-function to update_4
+faa621a4974e157bf0cc5777365d8a3f3c854894 4d4d08b8006f4c397499cfce063a36d671563797 Cal Mense <Cal.Mense@arup.com> 1751960833 +0200	commit: update 4
+4d4d08b8006f4c397499cfce063a36d671563797 8ca54ee22e8e885bbb2cdbffda2c77a87fa0d57b Cal Mense <Cal.Mense@arup.com> 1751961310 +0200	commit: update 4
+8ca54ee22e8e885bbb2cdbffda2c77a87fa0d57b fcaf5d0df5c48b7d68b6bc4b49f6dd3adaed0a2d Cal Mense <Cal.Mense@arup.com> 1751962368 +0200	commit: update 4
+fcaf5d0df5c48b7d68b6bc4b49f6dd3adaed0a2d 8242d87f3e68fd66158ea7fea04acfff7c57e8f9 Cal Mense <Cal.Mense@arup.com> 1751964018 +0200	commit: update 4
+8242d87f3e68fd66158ea7fea04acfff7c57e8f9 a7846c7527e5d265d2593fde67e78ea29e5c404c Cal Mense <Cal.Mense@arup.com> 1754642679 +0200	checkout: moving from update_4 to main
+a7846c7527e5d265d2593fde67e78ea29e5c404c aff98e45eb1179f5ebc9a0bbd9336869556d01e4 Cal Mense <Cal.Mense@arup.com> 1754642686 +0200	pull: Fast-forward
+aff98e45eb1179f5ebc9a0bbd9336869556d01e4 aff98e45eb1179f5ebc9a0bbd9336869556d01e4 Cal Mense <Cal.Mense@arup.com> 1754642759 +0200	checkout: moving from main to update_5
+aff98e45eb1179f5ebc9a0bbd9336869556d01e4 9a8e8e3afc7f326057fb64804ef1cfa239e507e2 Cal Mense <Cal.Mense@arup.com> 1754643020 +0200	commit: update-5
+9a8e8e3afc7f326057fb64804ef1cfa239e507e2 2ad466e550253a4d385fe5aab64c5478ee996d43 Cal Mense <Cal.Mense@arup.com> 1754643707 +0200	commit: fixed icon sizes
+2ad466e550253a4d385fe5aab64c5478ee996d43 aff98e45eb1179f5ebc9a0bbd9336869556d01e4 Cal Mense <Cal.Mense@arup.com> 1754646755 +0200	checkout: moving from update_5 to main
+aff98e45eb1179f5ebc9a0bbd9336869556d01e4 04ee20947a6ef94a2c1df94e8c6e7cc725510a7a Cal Mense <Cal.Mense@arup.com> 1754646762 +0200	pull: Fast-forward
+04ee20947a6ef94a2c1df94e8c6e7cc725510a7a 0000000000000000000000000000000000000000 Cal Mense <Cal.Mense@arup.com> 1754647154 +0200	Branch: renamed refs/heads/main to refs/heads/main
+04ee20947a6ef94a2c1df94e8c6e7cc725510a7a 04ee20947a6ef94a2c1df94e8c6e7cc725510a7a Cal Mense <Cal.Mense@arup.com> 1754647154 +0200	Branch: renamed refs/heads/main to refs/heads/main
